@@ -1,7 +1,9 @@
-# Read me generator
+// function to generate markdown for README
+function generateMarkdown(data) {
+  return `# ${data.title}
 
 ## Description
-a readme generator made in node.js
+${data.description}
 
 # Table of Contents
 - [Insallation](#installation)
@@ -12,21 +14,25 @@ a readme generator made in node.js
 - [Questions](#questions)
 
 ## Installation 
-clone from github repo
+${data.installation}
 
 ## Usage
-node index.js
+${data.usage}
 
 ## License
-a
+${data.license}
 
 ## Contributing
-undefined
+${data.contributing}
 
 ## Tests
-no
+${data.tests}
 
 ## Questions
 Link to my Github profile
 My Email address is
 
+`;
+}
+
+module.exports = generateMarkdown
