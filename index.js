@@ -13,12 +13,12 @@ const questions = [
     {
       type: 'input',
       name: 'title',
-      message: 'What is the title of your README'
+      message: 'Title of README'
     },
     {
       type: 'input',
       name: 'description',
-      message: 'Give a description of the application'
+      message: 'Description of the application'
     },
     {
      type: 'input',
@@ -28,23 +28,23 @@ const questions = [
     {
       type: 'input',
       name: 'usage',
-      message: 'What use does this application have?'
+      message: 'How do you use the application?'
     },
     {
       type: 'list',
       name: 'license',
-      message: 'Which licenses were used?',
+      message: 'Which license was used?',
       choices: ['Apache 2.0', 'GPL v2', 'MIT']
     },
     {
       type: 'input',
       name: 'contributions',
-      message: 'Who contributed to this project?'
+      message: 'How can somone contribute to the project?'
     },
     {
       type: 'input',
       name: 'tests',
-      message: 'How was the application tested?'
+      message: 'Test preformed on application?'
     },
     {
       type: 'input',
