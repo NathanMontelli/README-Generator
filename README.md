@@ -30,6 +30,6 @@ To contribute to the project please follow the GitHub link below, make a fork of
 No tests were preformed.
 
 ## Questions
-If you have any further questions please contact me at one of the links below:
-Link to my Github profile https://github.com/nathanmontelli
-My Email address is nathanmontelli@gmail.com
+If you have any further questions please contact me at one of the links below:  
+Link to my Github profile https://github.com/nathanmontelli  
+My Email address is nathanmontelli@gmail.com  
