@@ -30,6 +30,7 @@ ${data.contributing}
 ${data.tests}
 
 ## Questions
+If you have any further questions please contact me at one of the links below:
 Link to my Github profile https://github.com/${data.github}
 My Email address is ${data.email}
 `;
