@@ -29,9 +29,8 @@ ${data.contributing}
 ${data.tests}
 
 ## Questions
-Link to my Github profile
-My Email address is
-
+Link to my Github profile [${data.github}](https://github.com/${data.github})
+My Email address is [${data.email}](${data.email})
 `;
 }
 

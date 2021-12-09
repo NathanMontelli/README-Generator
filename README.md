@@ -1,7 +1,7 @@
-# Read me generator
+# s
 
 ## Description
-a readme generator made in node.js
+s
 
 # Table of Contents
 - [Insallation](#installation)
@@ -12,21 +12,20 @@ a readme generator made in node.js
 - [Questions](#questions)
 
 ## Installation 
-clone from github repo
+s
 
 ## Usage
-node index.js
+s
 
 ## License
-a
+MIT
 
 ## Contributing
 undefined
 
 ## Tests
-no
+s
 
 ## Questions
-Link to my Github profile
-My Email address is
-
+Link to my Github profile [nathanmontelli](https://github.com/nathanmontelli)
+My Email address is [nathanmontelli@gmail.com](nathanmontelli@gmail.com)
