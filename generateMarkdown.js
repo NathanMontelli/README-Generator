@@ -21,7 +21,7 @@ ${data.installation}
 ${data.usage}
 
 ## License
-${data.license}
+License used: ${data.license}
 
 ## Contributing
 ${data.contributing}
